@@ -647,8 +647,9 @@ playlist to queue it to :ref:`Auto DJ <library-auto-dj>`, so in a sense you can
 Right-click on an existing playlist name to access the different features in
 the context menu:
 
-* **Add to Auto DJ**: Adds the content of the playlist to the
-  :ref:`Auto DJ <library-auto-dj>` queue for automatic mixing.
+* **Add to Auto DJ**: Adds the content of the selection to either the
+  :guilabel:`bottom` or :guilabel:`top` of the :ref:`Auto DJ <library-auto-dj>`
+  queue for automatic mixing.
 * **Rename**: To rename a playlist, just enter a new playlist name and click
   :guilabel:`OK`.
 * **Duplicate**: Sometimes you want to build a playlist based on an existing one.
