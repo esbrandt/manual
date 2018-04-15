@@ -7,8 +7,8 @@ Getting Started
 
 Opening Mixxx
 =============
-|logo| Once you've :ref:`installed Mixxx <installing-mixxx>`, start by opening
-Mixxx and importing your music to the Mixxx library.
+|logo| Once you've installed Mixxx, start by opening Mixxx and importing your
+music to the Mixxx library.
 
 **Windows**
   Double-click the Mixxx icon on the Desktop. Alternatively, browse your Windows
